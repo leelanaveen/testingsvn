@@ -56,5 +56,5 @@
 		}
 		
 	}
-	// sendMail('bhargava.aapthi@gmail.com','subject','mesaage');
+	sendMail('bhargava.aapthi@gmail.com','subject','mesaage');
 ?>
